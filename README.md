@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hpfly-ai
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Sql
-- 💞️ I’m looking to collaborate on database related projects
-- 📫 How to reach me Telegram: @Nedunik
+- 👋 Hi, I’m Danylo Zdoryk
+- 👀 I’m interested in Data Engineering and Data Science
+- 🌱 I’m currently learning Python
+- 📫 How to reach me Telegram: t.me/dzdoryk
 
 <!---
 hpfly-ai/hpfly-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
