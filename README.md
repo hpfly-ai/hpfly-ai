@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danylo Zdoryk
 - 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Hadoop, Spark, HBase, Hive, Airflow
 - 📫 How to reach me Telegram: t.me/dzdoryk
 
 <!---
