@@ -4,137 +4,104 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **Scala<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="20" height="20"/> and Spark**
+- 🌱 I’m currently learning **Scala and Spark**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **danylozdoryk1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<h1>Technologies that I use</h1>
+
+**Hover over the icon to see its name**
+
+<br>
+
+<h2 align="left">Languages:</h2>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" title="Scala" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">REST APIs:</h2>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" title="Flask" height="40"/>
 </p>
 
-<h3 align="left">APIs:</h3>
+<h2 align="left">DBs:</h2>
 <p align="left"> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">DBs:</h3>
-<p align="left"> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>  
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" title="Redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="Cassandra" width="40" height="40"/> 
 </p>
 
 
-<h3 align="left">Cloud:</h3>
+<h2 align="left">Cloud:</h2>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/column_.svg">
-    <img src="column_.svg"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/lambda.svg">
-    <img src="aws_icons/lambda.svg" alt="Lambda"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/glue.svg">
-    <img src="aws_icons/glue.svg" alt="Glue"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/s3.svg">
-    <img src="aws_icons/s3.svg" alt="S3"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/athena.svg">
-    <img src="aws_icons/athena.svg" alt="Athena"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/redshift.svg">
-    <img src="aws_icons/redshift.svg" alt="Redshift"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/rds.svg">
-    <img src="aws_icons/rds.svg" alt="RDS"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/dynamo.svg">
-    <img src="aws_icons/dynamo.svg" alt="Dynamo"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/api.svg">
-    <img src="aws_icons/api.svg" alt="API Gateway"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/sfn.svg">
-    <img src="aws_icons/sfn.svg" alt="Step Funcitons"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/sns.svg">
-    <img src="aws_icons/sns.svg" alt="SNS"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/ec2.svg">
-    <img src="aws_icons/ec2.svg" alt="EC2"/>
-  </a>
+  <img src="aws_icons/AWS.svg" alt="aws" width="40" height="40" title="Amazon Web Services"/>
+  <img src="other_logos/column_.svg"/>
+  <img src="aws_icons/lambda.svg" alt="Lambda" title="Lambda"/>
+  <img src="aws_icons/glue.svg" alt="Glue" title="Glue"/>
+  <img src="aws_icons/s3.svg" alt="S3" title="Simple Storage Service(S3)"/>
+  <img src="aws_icons/athena.svg" alt="Athena" title="Athena"/>
+  <img src="aws_icons/redshift.svg" alt="Redshift" title="Redshift"/>
+  <img src="aws_icons/rds.svg" alt="RDS" title="RDS"/>
+  <img src="aws_icons/dynamo.svg" alt="Dynamo" title="Dynamo"/>
+  <img src="aws_icons/api.svg" alt="API Gateway" title="API Gateway"/>
+  <img src="aws_icons/sfn.svg" alt="Step Funcitons" title="Step Funcitons"/>
+  <img src="aws_icons/sns.svg" alt="SNS" title="SNS"/>
+  <img src="aws_icons/ec2.svg" alt="EC2" title="EC2"/>
   
 </p>
 <p align="left">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/column_.svg">
-    <img src="column_.svg"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/BigQuery.svg">
-    <img src="gcp_icons/BigQuery.svg" alt="BQ" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/GCS.svg">
-    <img src="gcp_icons/GCS.svg" alt="GCS" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/Datastore.svg">
-    <img src="gcp_icons/Datastore.svg" alt="Datastore" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/CloudShell.svg">
-    <img src="gcp_icons/CloudShell.svg" alt="CloudShell" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/CloudFunctions.svg">
-    <img src="gcp_icons/CloudFunctions.svg" alt="CloudFunctions" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/AppEngine.svg">
-    <img src="gcp_icons/AppEngine.svg" alt="AppEngine.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/ComputeEngine.svg">
-    <img src="gcp_icons/ComputeEngine.svg" alt="ComputeEngine.svg" width="40" height="40"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" title="Google Cloud Platform" width="40" height="40"/>
+  <img src="other_logos/column_.svg"/>
+  <img src="gcp_icons/BigQuery.svg" alt="BQ" title="BigQuery" width="40" height="40"/>
+  <img src="gcp_icons/GCS.svg" alt="GCS" title="Google CLoud Storage" width="40" height="40"/>
+  <img src="gcp_icons/Datastore.svg" alt="Datastore" title="Datastore" width="40" height="40"/>
+  <img src="gcp_icons/CloudShell.svg" alt="CloudShell" title="Cloud Shell" width="40" height="40"/>
+  <img src="gcp_icons/CloudFunctions.svg" alt="CloudFunctions" title="Cloud Functions" width="40" height="40"/>
+  <img src="gcp_icons/AppEngine.svg" alt="AppEngine.svg" title="App Engine" width="40" height="40"/>
+  <img src="gcp_icons/ComputeEngine.svg" alt="ComputeEngine.svg" title="Compute Engine" width="40" height="40"/>
 </p>
 
-<h3 align="left">Data Viz:</h3>
+<h2 align="left">Data Transformation:</h2>
 <p align="left"> 
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/data_viz_icons/looker.svg">
-    <img src="data_viz_icons/looker.svg" alt="looker.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/data_viz_icons/tableu.svg">
-    <img src="data_viz_icons/tableu.svg" alt="tableu.svg" width="40" height="40"/>
-  </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="40" height="40"/> 
+    <img src="spark_logo.svg" alt="spark_logo.svg" title="Apache Spark" height="40"/> 
 </p>
 
 
-<h3 align="left">Other Tools:</h3>
+<h2 align="left">Data Viz:</h2>
 <p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40" /> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <img src="data_viz_icons/looker.svg" alt="looker.svg" title="Looker" width="40" height="40"/>
+  <img src="data_viz_icons/tableu.svg" alt="tableu.svg" title="Tableau" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="40" height="40"/>
 </p>
 
-<h3 align="left">I prefer:</h3>
+<h2 align="left">Workflow orchestration:</h2>
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="os-x" width="40" height="40"/>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <img src="other_logos/AirflowLogo.png" alt="AirflowLogo.png" title="Apache Airflow" height="40"/>
 </p>
 
+<h2 align="left">Other Tools:</h2>
+<p align="left"> 
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" title="Docker Compose" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/> 
+  <img src="other_logos/Terraform.svg" alt="Terraform.svg" title="Terraform" width="40" height="40"/> 
+  <img src="other_logos/Jupyter.svg" alt="Jupyter.svg" title="Jupyter" width="40" height="40"/> 
 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zdoryk&show_icons=true&locale=en&layout=compact" alt="zdoryk" /></p>
+<h2 align="left">I prefer:</h2>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="os-x" title="OS X" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40"/>
+</p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zdoryk&show_icons=true&locale=en" alt="zdoryk" /></p>
