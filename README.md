@@ -33,13 +33,13 @@
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
 </p>
 
+
 <h3 align="left">Cloud:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://github.com/zdoryk/zdoryk/blob/main/column.svg">
-    <img src="column.svg"/>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/column_.svg">
+    <img src="column_.svg"/>
   </a>
-  
   <a href="https://github.com/zdoryk/zdoryk/blob/main/aws_icons/lambda.svg">
     <img src="aws_icons/lambda.svg" alt="Lambda"/>
   </a>
@@ -77,7 +77,44 @@
 </p>
 <p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/column_.svg">
+    <img src="column_.svg"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/BigQuery.svg">
+    <img src="gcp_icons/BigQuery.svg" alt="BQ" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/GCS.svg">
+    <img src="gcp_icons/GCS.svg" alt="GCS" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/Datastore.svg">
+    <img src="gcp_icons/Datastore.svg" alt="Datastore" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/CloudShell.svg">
+    <img src="gcp_icons/CloudShell.svg" alt="CloudShell" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/CloudFunctions.svg">
+    <img src="gcp_icons/CloudFunctions.svg" alt="CloudFunctions" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/AppEngine.svg">
+    <img src="gcp_icons/AppEngine.svg" alt="AppEngine.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/gcp_icons/ComputeEngine.svg">
+    <img src="gcp_icons/ComputeEngine.svg" alt="ComputeEngine.svg" width="40" height="40"/>
+  </a>
 </p>
+
+<h3 align="left">Data Viz:</h3>
+<p align="left"> 
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/data_viz_icons/looker.svg">
+    <img src="data_viz_icons/looker.svg" alt="looker.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/zdoryk/zdoryk/blob/main/data_viz_icons/tableu.svg">
+    <img src="data_viz_icons/tableu.svg" alt="tableu.svg" width="40" height="40"/>
+  </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+</p>
+
 
 <h3 align="left">Other Tools:</h3>
 <p align="left"> 
@@ -98,7 +135,6 @@
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zdoryk&show_icons=true&locale=en&layout=compact" alt="zdoryk" /></p>
 
