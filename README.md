@@ -71,7 +71,7 @@
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="40" height="40"/> 
     <img src="spark_logo.svg" alt="spark_logo.svg" title="Apache Spark" height="40"/> 
-    <img src="other_logos/kafka_streams_logo.png" alt="kafka_streams_logo.png" title="Kafka Streams" width="40" height="40"/>
+    <img src="other_logos/kafka_streams_logo.png" alt="kafka_streams_logo.png" title="Kafka Streams" width="100" height="40"/>
 </p>
 
 <h2 align="left">Stream Processing:</h2>
