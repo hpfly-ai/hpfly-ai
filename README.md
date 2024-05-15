@@ -19,7 +19,7 @@
 <h2 align="left">Languages:</h2>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/java-original.svg" alt="java" title="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/>
 </p>
 
 <h2 align="left">REST APIs:</h2>
