@@ -73,6 +73,10 @@
     <img src="spark_logo.svg" alt="spark_logo.svg" title="Apache Spark" height="40"/> 
 </p>
 
+<h2 align="left">Stream Processing:</h2>
+<p align="left"> 
+    <img src="other_logos/kafka_logo_without_words.png" alt="kafka.png" title="Kafka" width="40" height="40"/>
+</p>
 
 <h2 align="left">Data Viz:</h2>
 <p align="left"> 
